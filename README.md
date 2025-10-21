@@ -1298,7 +1298,7 @@ This project showcases a comprehensive **AI-powered plant safety system** built 
 
 ### 👨‍💻 **Find Me Online:**
 
-- **💼 LinkedIn**: [Cengiz Berat Dinckan](https://www.linkedin.com/in/robert-harrison-90408438a)
+- **💼 LinkedIn**: [Robert Harrison](https://www.linkedin.com/in/robert-harrison-90408438a)
 - **🧑‍💻 GitHub**: [paulinawoodwar527-blip](https://github.com/paulinawoodwar527-blip)
 
 ### 📂 **Code Repository:**
