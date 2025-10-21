@@ -45,7 +45,7 @@ src/
 └── main.ts
 ```
 
-### Step 4: Initialize Agent Service
+### Step 4: Initialize Agent Service(agent.service)
 
 Initialize the agent service with OpenAI API key. The `setDefaultOpenAIKey` function configures the global API key for all OpenAI agent operations:
 
@@ -66,7 +66,7 @@ export class AgentService {
 }
 ```
 
-### Step 5: Configure Environment
+### Step 5: Configure Environment(app.mudule)
 
 Set up the ConfigModule in your app module:
 
@@ -81,7 +81,7 @@ import { AgentModule } from './agent/agent.module';
 export class AppModule {}
 ```
 
-## 🚀 Getting Started
+## 🚀 Getting Started(harmful.agent)
 
 Create first agent to check if the plant is harmful
 
@@ -1306,7 +1306,7 @@ This project showcases a comprehensive **AI-powered plant safety system** built 
 
 This complete implementation is available on GitHub:
 
-**🌟 [nest-ai-agent-example](https://github.com/pandashavenobugs/nest-ai-agent-example)**
+**🌟 [ai-agent-example](https://github.com/paulinawoodwar527-blip/AI_agent_example)**
 
 ### 🤝 **Get Involved:**
 
